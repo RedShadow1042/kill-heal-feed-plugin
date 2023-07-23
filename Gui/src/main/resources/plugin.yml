@@ -1,0 +1,8 @@
+name: Gui
+version: '${project.version}'
+main: me.shadow.gui.Gui
+api-version: '1.20'
+commands:
+  gui:
+    description: A simple gui
+    usage: /<command>
